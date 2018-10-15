@@ -3,9 +3,9 @@
 ## "Black-beat" est un projet open source de séquenceur musical en ligne.
 
 ### Langages utilisés:
-..*HTML5
-..*CSS3
-..*REACT semantic.
+..* HTML5
+..* CSS3
+..* REACT semantic.
 
 Création du projet en 2018 par [Christopher LENOIR](https://github.com/xLeDocteurx/MVC-Zend/commits?author=xLeDocteurx)
 
