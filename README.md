@@ -1,8 +1,8 @@
-#Black-Beat
+# Black-Beat
 
-##"Black-beat" est un projet open source de séquenceur musical en ligne.
+## "Black-beat" est un projet open source de séquenceur musical en ligne.
 
-###Langages utilisés:
+### Langages utilisés:
 ..*HTML5
 ..*CSS3
 ..*REACT semantic.
