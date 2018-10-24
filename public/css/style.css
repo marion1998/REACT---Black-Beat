@@ -1,3 +1,12 @@
 #headerBar{
-    position: fixed
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#footer{
+    position: fixed;
+    color: #000;
+    bottom: 0px;
+    width: 100%;
 }

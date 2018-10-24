@@ -16,7 +16,7 @@ export default class Footer extends Component {
     render () {
         return (
             <footer>
-                3
+                Footer
             </footer>
         )
     }

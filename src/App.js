@@ -105,10 +105,12 @@ class App extends Component {
             </div>
 
         </section>
+        
+        <div id="footer">
 
-        <Footer
-        currentProject={this.state.currentProject}
-        />
+        <Footer/>
+
+        </div>
         
       </div>
     );

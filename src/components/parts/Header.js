@@ -36,7 +36,7 @@ export default class MenuExampleHeader extends Component {
         // let saveProjects = DB.saveProjects();
 
         return (
-        <Menu attached="top">
+        <Menu id="headerBar">
             {/* <Menu inverted> */}
             <Dropdown item text="File">
                 <Dropdown.Menu>
