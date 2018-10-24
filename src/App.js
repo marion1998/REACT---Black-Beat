@@ -81,6 +81,7 @@ class App extends Component {
     return (
       <div>
         <Header 
+        id="headerBar"
         projects={this.state.projects} 
         currentUser={this.state.currentUser}
         currentProject={this.state.currentProject}
